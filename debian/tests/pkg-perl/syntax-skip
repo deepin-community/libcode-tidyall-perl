@@ -1,0 +1,5 @@
+# need unavailable modules
+Code/TidyAll/Plugin/MasonTidy.pm
+Code/TidyAll/Plugin/PerlTidySweet.pm
+Code/TidyAll/Plugin/PodTidy.pm
+Code/TidyAll/SVN/Precommit.pm
